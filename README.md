@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtalex&label=Profile%20views&color=0e75b6&style=flat" alt="nxtalex" /> </p>
 
+- 🔭 I’m currently working on **a next.js messaging application**
+
 - 🌱 I’m currently learning **Next.js, MongoDB, Express.js, Node.js**
 
 - 💬 Ask me about **Javascript, React, HTML, CSS, Tailwind**
+
+- 📫 How to reach me **nxtalex10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxtalex&show_icons=true&locale=en&layout=compact" alt="nxtalex" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxtalex&show_icons=true&locale=en" alt="nxtalex" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtalex&" alt="nxtalex" /></p>
