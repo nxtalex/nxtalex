@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, MongoDB, Express.js, Node.js**
 
-- 💬 Ask me about **Javascript, React, HTML, CSS, Tailwind**
+- 💬 Ask me about **Typescript, React, HTML, CSS, Tailwind**
 
 - 📫 How to reach me **nxtalex10@gmail.com**
 
