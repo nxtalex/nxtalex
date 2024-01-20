@@ -1,4 +1,3 @@
-<h1 align="center"> 👋 Hi, I'm Alex</h1>
 
 <hr style = "height: 2px; color: "rgb(100, 100, 100);">
 
