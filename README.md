@@ -1,5 +1,5 @@
 
-# Hi, I'm Alex</h1>
+<h1 align: center>👋 Hi, I'm Alex</h1>
 <h3 align = "center">A passionate full-stack software developer from Italy.</h3>
 
 <hr style = "height: 2px; color: rgb(100, 100, 100);">
