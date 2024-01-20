@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate full-stack developer from Italy.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtalex&label=Profile%20views&color=0e75b6&style=flat" alt="nxtalex" /> </p>
-
 - 🔭 I’m currently working on **a next.js messaging application**
 
 - 🌱 I’m currently learning **Next.js, MongoDB, Express.js, Node.js**
