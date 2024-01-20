@@ -1,5 +1,5 @@
 
-<h1 style="border-bottom: none" align = center>👋 Hi, I'm Alex</h1>
+<h1align = center>👋 Hi, I'm Alex</h1>
 <h3 align = "center">A passionate full-stack software developer from Italy.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
