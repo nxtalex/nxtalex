@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full-stack software developer from Italy.</h3>
+<h1 align="center">A passionate full-stack software developer from Italy.</h1>
 
 <hr style = "height: 2px; color: "rgb(100, 100, 100);">
 
